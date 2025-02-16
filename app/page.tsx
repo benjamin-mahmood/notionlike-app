@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <div className='text-8xl text-center font-bold'>Notion AI Clone</div>
     </main>
-  );
+  )
 }
